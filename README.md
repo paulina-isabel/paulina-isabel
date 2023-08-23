@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Hello! I'm Paulina </h1>
-  A software developer focused on Front End Engineering
+  A software engineer focused on Front End Engineering
 <br><br>
 Some of my technology skills:<br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
