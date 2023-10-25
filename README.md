@@ -13,6 +13,9 @@ Some of my technology skills:<br>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
 <br><br>
 I'm currently enrolled in Turing School of Software and Design's seven month long Front End Software Development program.<br>
 During my time at Turing so far, I've learned to utilize my existing skills in a new exciting way through building applications both alone and in teams.<br>
