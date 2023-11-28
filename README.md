@@ -17,7 +17,7 @@ Some of my technology skills:<br>
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
 <br><br>
-I'm currently enrolled in Turing School of Software and Design's seven month long Front End Software Development program.<br>
+I was recently enrolled in Turing School of Software and Design's seven month long Front End Software Development program, and garduated on Novmeber 17th!<br>
 During my time at Turing, I've learned and implemented technologies brand new to me through building applications both alone and in teams. Implementing my existing team collaboration, strategic planning, problem-solving, communication, and people skills to use in this new way has proven to be exciting and fulfilling.<br>
 Looking forward to keep learning and expand my skills to their fullest potential!
 <br><br>
